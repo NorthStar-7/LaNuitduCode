@@ -2,7 +2,7 @@
 
 Developped in the context of the "La Nuit du Code" competition aimed at middle and high school students in the Frency system. This game is inspired from Survivor.io, where you play as a character evading and killing an increasing amount of enemies that are sent in wave.
 
-#How to play
+# How to play
 
 **Movement:** Use the _arrows keys_ to navigate the world.
 **Combat:** Hover your _mouse_ in the direction of enemies, as you automatically shoot projectiles
