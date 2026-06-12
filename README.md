@@ -1,6 +1,6 @@
 # LaNuitduCode
 
-Developped in the context of the "La Nuit du Code" competition aimed at middle and high school students in the French system. This game is inspired from Survivor.io, where you play as a character evad[...]
+Developped in the context of the "La Nuit du Code" competition aimed at middle and high school students in the French system. This game is inspired from Survivor.io, where you play as a character evading and killing an increasing amount of enemies that are sent in waves.
 
 # How to play
 
